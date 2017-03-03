@@ -15,7 +15,7 @@
             [status-im.components.toolbar.styles :refer [toolbar-background1]]
             [status-im.components.drawer.view :refer [drawer-view open-drawer]]
             [status-im.components.image-button.view :refer [scan-button]]
-            [status-im.contacts.styles :as st]
+            [status-im.new-chat.styles :as st]
             [status-im.utils.listview :as lw]
             [status-im.i18n :refer [label]]
             [status-im.utils.platform :refer [platform-specific ios?]]))
